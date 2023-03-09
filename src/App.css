@@ -1,0 +1,15 @@
+.navbar {
+  background-color: #22668a;
+}
+.col-md-2 {
+}
+
+.categoryAktif {
+  background-color: #22668a;
+  color: white;
+}
+
+.categories:hover {
+  cursor: pointer;
+}
+
