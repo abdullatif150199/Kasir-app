@@ -6,7 +6,7 @@ import CardProduct from "../components/CardProduct";
 import Categories from "../components/Categories";
 import Hasil from "../components/Hasil";
 
-const API_URL = "http://localhost:3004/";
+const API_URL = "https://json-server-kasir-app.vercel.app/";
 
 export default class Home extends Component {
   state = {
